@@ -1,5 +1,4 @@
 # Network Analysis & Visualization with R & igraph
-
 Assignment 1 for the Social Network Analysis Course of AUEB's MSc in Business Analytics.
 
 ## General Instructions
@@ -36,4 +35,4 @@ Your answers should be as concise as possible.
    Rank the characters of the network with regard to their PageRank value. Calculate the PageRank values and create a plot of the graph that uses these values to set the nodes' size appropriately.
 
 ## References
-- [A. Beveridge and J. Shan. Network of thrones. Math Horizons Magazine, 23(4):18-22, 2016](https://mathbeveridge.github.io/publication/2016-network-of-thrones)
+[A. Beveridge and J. Shan. Network of thrones. Math Horizons Magazine, 23(4):18-22, 2016](https://mathbeveridge.github.io/publication/2016-network-of-thrones)
