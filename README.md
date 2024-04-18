@@ -1,12 +1,13 @@
 # Network Analysis & Visualization with R & igraph
 
-### General Instructions
+Assignment 1 for the Social Network Analysis Course of AUEB's MSc in Business Analytics.
+
+## General Instructions
 Your answers should be as concise as possible.  
-**Submission instructions:** You should submit a compressed directory, containing your answers and code, via [this link](https://e-mscba.dmst.aueb.gr).  
 **Submitting answers:** Prepare a report with your answers on this project in a single PDF file named `p1.pdf`.  
 **Submitting code:** Prepare an `.R` file with your code.
 
-### Problem
+## Problem
 1. **'A Song of Ice and Fire' Network**  
    Your first task is to create an igraph graph using the network of the characters of 'A Song of Ice and Fire' by George R. R. Martin. A `.csv` file with the list of edges of the network is available online. You should download the file and use columns Source, Target, and Weight to create an undirected weighted graph.
 
@@ -34,5 +35,5 @@ Your answers should be as concise as possible.
 5. **Ranking and Visualization**  
    Rank the characters of the network with regard to their PageRank value. Calculate the PageRank values and create a plot of the graph that uses these values to set the nodes' size appropriately.
 
-### References
-- A. Beveridge and J. Shan. Network of thrones. Math Horizons Magazine, 23(4):18{22, 2016.
+## References
+- [A. Beveridge and J. Shan. Network of thrones. Math Horizons Magazine, 23(4):18-22, 2016](https://mathbeveridge.github.io/publication/2016-network-of-thrones)
